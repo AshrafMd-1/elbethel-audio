@@ -1,4 +1,4 @@
-# Elbethel Audio — Mobile App
+# Elbethel Audio - Mobile App
 
 A React Native mobile app for streaming and browsing audio content, organized by category and album.
 
