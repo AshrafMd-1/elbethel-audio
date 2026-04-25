@@ -1,4 +1,4 @@
-# Elbethel Audio — Backend
+# Elbethel Audio - Backend
 
 A lightweight Node.js/Express proxy server that streams audio files from Google Drive for the [Elbethel Audio app](../app/README.md). It authenticates via a Google service account and supports HTTP range requests for seamless audio seeking and playback.
 
