@@ -1,4 +1,4 @@
-# AudioBook
+# Elbethel Audio
 
 A full-stack audio streaming platform — a React Native mobile app paired with a Node.js proxy backend for streaming audio from Google Drive.
 
@@ -7,7 +7,7 @@ A full-stack audio streaming platform — a React Native mobile app paired with 
 ## Repository Structure
 
 ```
-audio-book/
+elbethel-audio/
 ├── app/        # React Native / Expo mobile app (TypeScript)
 └── backend/    # Node.js / Express audio streaming proxy
 ```

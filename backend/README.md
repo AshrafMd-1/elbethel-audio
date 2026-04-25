@@ -1,6 +1,6 @@
-# Audio Streaming Backend
+# Elbethel Audio — Backend
 
-A lightweight Node.js/Express proxy server that streams audio files from Google Drive for the [Audio Player App](../app/README.md). It authenticates via a Google service account and supports HTTP range requests for seamless audio seeking and playback.
+A lightweight Node.js/Express proxy server that streams audio files from Google Drive for the [Elbethel Audio app](../app/README.md). It authenticates via a Google service account and supports HTTP range requests for seamless audio seeking and playback.
 
 ---
 
@@ -99,8 +99,8 @@ Range: bytes=0-1048575
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/audio-book.git
-cd audio-book/backend
+git clone https://github.com/AshrafMd-1/elbethel-audio.git
+cd elbethel-audio/backend
 npm install
 ```
 
@@ -138,4 +138,4 @@ The server starts at `http://localhost:3000` by default.
 
 ## Related
 
-- [Audio Player App](../app/README.md) — the frontend mobile app that consumes this backend
+- [Elbethel Audio app](../app/README.md) — the mobile app that consumes this backend

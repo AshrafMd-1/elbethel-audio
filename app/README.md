@@ -1,4 +1,4 @@
-# Audio Player App
+# Elbethel Audio — Mobile App
 
 A React Native mobile app for streaming and browsing audio content, organized by category and album.
 
@@ -86,8 +86,8 @@ assets/
 ### Install
 
 ```bash
-git clone https://github.com/your-username/audio-book.git
-cd audio-book/app
+git clone https://github.com/AshrafMd-1/elbethel-audio.git
+cd elbethel-audio/app
 yarn install
 ```
 
