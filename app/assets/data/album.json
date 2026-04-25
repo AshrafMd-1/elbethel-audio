@@ -1,0 +1,202 @@
+{
+	"albums": {
+		"1": {
+			"en": "God's Love ❤",
+			"te": "దేవుని ప్రేమ ❤",
+			"verses": [
+				{
+					"en": {
+						"ref": "Romans 8:38-39",
+						"text": "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."
+					},
+					"te": {
+						"ref": "రోమా 8:38-39",
+						"text": "మరణమైనను జీవమైనను దేవదూతలైనను ప్రధానులైనను ఉన్నవియైనను రాబోవునవియైనను అధికారులైనను ఎత్తయినను లోతైనను సృష్టింపబడిన మరి ఏదైనను, మన ప్రభువైన క్రీస్తుయేసునందలి దేవుని ప్రేమనుండి మనలను ఎడబాప నేరవని రూఢిగా నమ్ముచున్నాను."
+					}
+				},
+				{
+					"en": {
+						"ref": "John 3:16",
+						"text": "For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not perish but have eternal life."
+					},
+					"te": {
+						"ref": "యోహాను 3:16",
+						"text": "దేవుడు లోకమును ఎంతో ప్రేమించెను. కాగా ఆయన తన అద్వితీయకుమారునిగా పుట్టిన వానియందు విశ్వాసముంచు ప్రతివాడును నశింపక నిత్యజీవము పొందునట్లు ఆయనను అనుగ్రహించెను."
+					}
+				}
+			]
+		},
+		"2": {
+			"en": "Forgiveness 🙏",
+			"te": "క్షమాపణ 🙏",
+			"verses": [
+				{
+					"en": {
+						"ref": "1 John 1:9",
+						"text": "If we confess our sins, He is faithful and just and will forgive us our sins and purify us from all unrighteousness."
+					},
+					"te": {
+						"ref": "1 యోహాను 1:9",
+						"text": "మన పాపములను మనము ఒప్పుకొనినయెడల, ఆయన నమ్మదగినవాడును నీతిమంతుడును గనుక ఆయన మన పాపములను క్షమించి సమస్త దుర్నీతినుండి మనలను పవిత్రులనుగా చేయును."
+					}
+				}
+			]
+		},
+		"3": {
+			"en": "Peace in Troubled Times 🕊️",
+			"te": "కష్టకాలంలో శాంతి 🕊️",
+			"verses": [
+				{
+					"en": {
+						"ref": "John 14:27",
+						"text": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
+					},
+					"te": {
+						"ref": "యోహాను 14:27",
+						"text": "శాంతి మీ కనుగ్రహించి వెళ్లుచున్నాను; నా శాంతినే మీ కనుగ్రహించుచున్నాను; లోకమిచ్చు నట్టుగా నేను మీ కనుగ్రహించుటలేదు; మీ హృదయమును కలవరపడనియ్యకుడి, వెరవనియ్యకుడి"
+					}
+				},
+				{
+					"en": {
+						"ref": "Philippians 4:6-7",
+						"text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+					},
+					"te": {
+						"ref": "ఫిలిప్పీయులకు 4:6-7",
+						"text": "దేనినిగూర్చియు చింతపడకుడి గాని ప్రతి విషయములోను ప్రార్థన విజ్ఞాపనములచేత కృతజ్ఞతాపూర్వకముగా మీ విన్నపములు దేవునికి తెలియజేయుడి. అప్పుడు సమస్త జ్ఞానమునకు మించిన దేవుని సమాధానము యేసుక్రీస్తు వలన మీ హృదయములకును మీ తలంపులకును కావలియుండును."
+					}
+				}
+			]
+		},
+		"4": {
+			"en": "Faith and Trust in God 🌿",
+			"te": "దేవునిపై విశ్వాసం మరియు నమ్మకం 🌿",
+			"verses": [
+				{
+					"en": {
+						"ref": "Hebrews 11:1",
+						"text": "Now faith is confidence in what we hope for and assurance about what we do not see."
+					},
+					"te": {
+						"ref": "హెబ్రీయులకు 11:1",
+						"text": "విశ్వాసమనునది నిరీక్షింపబడువాటియొక్క నిజస్వరూపమును, అదృశ్యమైనవి యున్నవనుటకు రుజువునై యున్నది"
+					}
+				},
+				{
+					"en": {
+						"ref": "Proverbs 3:5-6",
+						"text": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+					},
+					"te": {
+						"ref": "సామెతలు 3:5-6",
+						"text": "నీ స్వబుద్ధిని ఆధారము చేసికొనక నీ పూర్ణహృదయముతో యెహోవాయందు నమ్మకముంచుము. నీ ప్రవర్తన అంతటియందు ఆయన అధికారమునకు ఒప్పుకొనుము. అప్పుడు ఆయన నీ త్రోవలను సరాళము చేయును."
+					}
+				}
+			]
+		},
+		"5": {
+			"en": "Strength in Hard Times 💪",
+			"te": "కష్టకాలంలో బలం 💪",
+			"verses": [
+				{
+					"en": {
+						"ref": "Isaiah 41:9-10",
+						"text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+					},
+					"te": {
+						"ref": "యెషయా 41:9-10",
+						"text": "నీకు తోడైయున్నాను భయపడకుము నేను నీ దేవుడనై యున్నాను దిగులుపడకుము నేను నిన్ను బలపరతును నీకు సహాయము చేయువాడను నేనే నీతియను నా దక్షిణహస్తముతో నిన్ను ఆదుకొందును."
+					}
+				},
+				{
+					"en": {
+						"ref": "Philippians 4:13",
+						"text": "I can do all things through Christ who strengthens me."
+					},
+					"te": {
+						"ref": "ఫిలిప్పీయులకు 4:13",
+						"text": "నన్ను బలపరచువానియందే నేను సమస్తమును చేయగలను"
+					}
+				}
+			]
+		},
+		"6": {
+			"en": "Hope in God’s Promises 🌅",
+			"te": "దేవుని వాగ్దానాలలో ఆశ 🌅",
+			"verses": [
+				{
+					"en": {
+						"ref": "Jeremiah 29:11",
+						"text": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."
+					},
+					"te": {
+						"ref": "యిర్మీయా 29:11",
+						"text": "నేను మిమ్మునుగూర్చి ఉద్దేశించిన సంగతులను నేనెరుగుదును, రాబోవు కాలమందు మీకు నిరీక్షణకలుగునట్లుగా అవి సమాధానకరమైన ఉద్దేశములేగాని హానికరమైనవి కావు; ఇదే యెహోవా వాక్కు."
+					}
+				},
+				{
+					"en": {
+						"ref": "Romans 15:13",
+						"text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+					},
+					"te": {
+						"ref": "రోమా 15:13",
+						"text": "కాగా మీరు పరిశుద్ధాత్మశక్తి పొంది, విస్తారముగా నిరీక్షణ గలవారగుటకు నిరీక్షణకర్తయగు దేవుడు విశ్వాసము ద్వారా సమస్తానందముతోను సమాధానముతోను మిమ్మును నింపునుగాక."
+					}
+				}
+			]
+		},
+		"7": {
+			"en": "The Power of Prayer 🙏",
+			"te": "ప్రార్థన శక్తి 🙏",
+			"verses": [
+				{
+					"en": {
+						"ref": "Matthew 7:7",
+						"text": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you."
+					},
+					"te": {
+						"ref": "మత్తయి 7:7",
+						"text": "అడుగుడి మీకియ్యబడును, వెదకుడి మీకు దొరకును, తలుపు తట్టుడి మీకియ్యబడును."
+					}
+				},
+				{
+					"en": {
+						"ref": "1 Thessalonians 5:16-18",
+						"text": "Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus."
+					},
+					"te": {
+						"ref": "1 థెస్సలొనీకయులకు 5:16-18",
+						"text": "ప్రతి విషయమునందును కృతజ్ఞతాస్తుతులు చెల్లించుడి. ఈలాగు చేయుట యేసు క్రీస్తునందు మీ విషయములో దేవుని చిత్తము."
+					}
+				}
+			]
+		},
+		"8": {
+			"en": "Eternal Life in Christ 🌟",
+			"te": "క్రీస్తులో శాశ్వత జీవితం 🌟",
+			"verses": [
+				{
+					"en": {
+						"ref": "John 11:25-26",
+						"text": "Jesus said to her, ‘I am the resurrection and the life. The one who believes in me will live, even though they die; and whoever lives by believing in me will never die.’"
+					},
+					"te": {
+						"ref": "యోహాను 11:25-26",
+						"text": "అందుకు యేసు–పునరుత్థానమును జీవమును నేనే; నాయందు విశ్వాసముంచువాడు చనిపోయినను బ్రదుకును; బ్రదికి నాయందు విశ్వాసముంచు ప్రతివాడును ఎన్నటికిని చనిపోడు. ఈ మాట నమ్ముచున్నావా? అని ఆమెను నడిగెను."
+					}
+				},
+				{
+					"en": {
+						"ref": "Revelation 21:4",
+						"text": "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away."
+					},
+					"te": {
+						"ref": "ప్రకటన 21:4",
+						"text": "ఆయన వారి కన్నుల ప్రతి బాష్పబిందువును తుడిచివేయును, మరణము ఇక ఉండదు, దుఃఖమైనను ఏడ్పైనను వేదన యైనను ఇక ఉండదు, మొదటి సంగతులు గతించి పోయెనని సింహాసనములోనుండి వచ్చిన గొప్ప స్వరము చెప్పుట వింటిని."
+					}
+				}
+			]
+		}
+	}
+}

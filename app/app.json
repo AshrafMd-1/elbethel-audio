@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "Elbethel Revival Centre",
+    "slug": "elbethel-audio",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo/logo.png",
+    "backgroundColor": "#121212",
+    "splash": {
+      "image": "./assets/images/logo/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121212"
+    },
+    "scheme": [
+      "elbethel"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo/logo.png",
+        "backgroundColor": "#121212"
+      },
+      "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+      ],
+      "package": "com.elbethel.audio"},
+    "plugins": [
+      "expo-router",
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "enableProguardInReleaseBuilds": true,
+            "enableShrinkResourcesInReleaseBuilds": true
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "8449c558-11ac-4b96-ba4c-d9233ab4ea25"
+      }
+    }
+  }
+}
