@@ -41,9 +41,14 @@ const fetchAudio = async (req, res) => {
 
 		res.setHeader("Content-Length", end - start + 1);
 
+		const driveRequestHeaders = {};
+		if (range) {
+			driveRequestHeaders['Range'] = `bytes=${start}-${end}`;
+		}
+
 		const response = await drive.files.get(
 		  {fileId, alt: "media"},
-		  {responseType: "stream"}
+		  {responseType: "stream", headers: driveRequestHeaders}
 		);
 
 		response.data.pipe(res);
